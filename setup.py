@@ -46,7 +46,6 @@ setup(
                       'websockets',
                       'tqdm',
                       'dash',
-                      'pyftpdlib',
                       'tables',
                       'matplotlib'
                       ]
